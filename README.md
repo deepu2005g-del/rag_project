@@ -1,4 +1,4 @@
-# RAG Project
+live server : https://rag-project-1byr.onrender.com # RAG Project
 
 A production-ready Retrieval-Augmented Generation (RAG) backend with a premium web interface. Upload PDF documents, store them as vector embeddings in Pinecone, and chat with your documents using Groq LLM.
 
